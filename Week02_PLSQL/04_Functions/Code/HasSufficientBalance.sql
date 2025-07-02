@@ -1,1 +1,0 @@
--- Function to return 1 or 0 if balance is sufficient

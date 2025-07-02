@@ -1,1 +1,0 @@
--- PL/SQL to send reminders for loans due in next 30 days

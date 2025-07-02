@@ -1,1 +1,0 @@
--- PL/SQL code for loan interest discount based on age > 60

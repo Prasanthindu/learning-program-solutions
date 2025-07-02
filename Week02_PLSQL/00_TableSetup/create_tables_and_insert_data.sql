@@ -1,1 +1,0 @@
--- SQL to create customers, loans, accounts, employees, transactions

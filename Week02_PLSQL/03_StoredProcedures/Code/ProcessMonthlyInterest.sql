@@ -1,1 +1,0 @@
--- Procedure to apply 1% interest to savings accounts

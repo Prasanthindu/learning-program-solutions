@@ -1,1 +1,0 @@
--- Trigger to log each transaction to audit

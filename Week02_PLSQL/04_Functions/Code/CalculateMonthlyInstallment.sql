@@ -1,1 +1,0 @@
--- Function to compute EMI

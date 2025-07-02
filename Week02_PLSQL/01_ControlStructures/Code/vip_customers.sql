@@ -1,1 +1,0 @@
--- PL/SQL to mark customers as VIP where balance > 10000
