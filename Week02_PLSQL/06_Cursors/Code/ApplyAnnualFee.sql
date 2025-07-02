@@ -1,0 +1,1 @@
+-- Cursor to deduct annual fees
